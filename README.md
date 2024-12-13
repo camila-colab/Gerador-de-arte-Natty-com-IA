@@ -17,35 +17,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🌿 Projeto 'Natty' com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto utiliza inteligência artificial para criar conteúdos que sejam autênticos e naturais, sem parecerem gerados por uma máquina.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- OpenAI GPT-3 para geração de texto
+- DALL-E 2 para geração de imagens
+- Synthesia para criação de vídeos com avatares virtuais
+- https://new.express.adobe.com/
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Pesquisa e Planejamento**: Definimos o conceito do projeto e pesquisamos sobre como a IA pode ajudar a criar conteúdos 'natty'.
+2. **Desenvolvimento e Experimentação**: Utilizamos as ferramentas de IA para gerar textos, imagens e vídeos, fazendo ajustes para que pareçam o mais naturais possível.
+3. **Refinamento e Ajustes Finais**: Revisamos todo o conteúdo gerado e ajustamos onde necessário para garantir a naturalidade.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+### Exemplo de Texto Gerado
+```markdown
+Era uma vez, em uma pequena vila cercada por montanhas, uma jovem chamada Luna que sonhava em explorar o mundo além do horizonte. Cada manhã, ela observava o sol nascer sobre os picos nevados, imaginando as aventuras que a esperavam...
+Exemplo de Imagem Gerada imagem fictícia de uma paisagem natural com um nascer do sol; link abaixo:
+https://tse1.mm.bing.net/th?id=OIG1._ZpQOXFn.b92lXOFpLgH&pid=ImgGn
+https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:4511974a-ca86-4589-9692-f5b8b6384936?category=media&tab=audio
